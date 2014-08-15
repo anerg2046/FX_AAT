@@ -1,7 +1,7 @@
 FX_AAT
 ======
 
-开源跟踪天线项目Arduino MEGA2506版
+开源跟踪天线项目Arduino MEGA2560版
 
 说明
 ====
